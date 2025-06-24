@@ -1,2 +1,14 @@
-# -power-bi-dashboard-analyzing-Amazon-Prime-Movies-TV-Show
-Power BI dashboard analyzing Amazon Prime Movies &amp; TV Shows using dummy Excel data. Visuals include genre distribution, ratings, release trends, and content types. Built to showcase data modeling, DAX, and storytelling skills. Ideal for data visualization practice.
+# Amazon Prime Power BI Dashboard
+
+This Power BI dashboard visualizes Amazon Prime Movies & TV Shows using dummy Excel data.
+
+## Key Features
+- Genre distribution
+- IMDb rating analysis
+- Country & release year trends
+- TV vs Movie content breakdown
+
+## Tools Used
+Power BI | DAX | Excel
+
+📥 Download the `.pbix` file above to explore!
